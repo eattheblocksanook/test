@@ -1,8 +1,8 @@
 {
-    "name": "Test Movie",
-    "author": "MNMN",
+    "name": "ดูหนังใหม่ชนโรง",
+    "author": "MNNM",
     "info": "ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย",
-    "image": "",
+    "image": "https://www.037hdmovie.com/wp-content/uploads/2020/04/1588242378408.png",
     "stations": [
         {
             "name": "A Quiet Place Day One (2024) ดินแดนไร้เสียง วันที่หนึ่ง",
